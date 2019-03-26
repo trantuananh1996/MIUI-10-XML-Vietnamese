@@ -944,7 +944,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
     <string name="setting_title_lottery_card_display">Dịch vụ xổ số</string>
     <string name="setting_title_shift_card_desc">Thẻ trợ lý trên trang chủ lịch, cần kết nối mạng</string>
     <string name="setting_title_shift_card_display">Hiển thị trợ lý</string>
-    <string name="setting_title_weather_card_desc">Hiển thị thẻ thời tiết trên trang chủ lịch, cần kết nối mạng</string>
+    <string name="setting_title_weather_card_desc">Thông tin thời tiết ở phía bên phải của thẻ lịch âm</string>
     <string name="setting_title_weather_card_display">Hiển thị dịch vụ thời tiết</string>
     <string name="setting_title_yiji_display">Hiển thị Yiji</string>
     <string name="setting_user_experience">Trải nghiệm người dùng</string>
